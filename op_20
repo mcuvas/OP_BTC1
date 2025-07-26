@@ -1,0 +1,2 @@
+git submodule add https://github.com/btc-vision/OP_20.git external/OP_20
+git submodule update --init --recursive
